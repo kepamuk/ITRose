@@ -1,0 +1,19 @@
+{
+  "name": "ryabcev_tasks",
+  "version": "1.0.0",
+  "scripts": {
+    "task1": "tsc && node task1/index.js",
+    "task2": "tsc && node task2/index.js",
+    "task3": "tsc && node task3/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "@types/node": "^20.4.6",
+    "jest": "^29.6.2",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  }
+}
